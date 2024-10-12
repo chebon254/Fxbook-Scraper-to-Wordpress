@@ -35,7 +35,10 @@ This web scraping tool is designed to automate the extraction of data from web p
    pip install -r requirements.txt
    ```
 
-4. Ensure you have the appropriate WebDriver installed for your browser.
+4. Ensure you have the appropriate WebDriver installed for your browser. For me I ran .
+   ```bash
+   sudo apt-get install chromium-chromedriver
+   ```
 
 ## Usage
 
